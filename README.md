@@ -4,21 +4,25 @@
 
 ### Table of Contents
 
-1. [Introduction](#introduction)
-   - 1.1 [Problem Statement](#problem-statement)
-2. [Background Research](#background-research)
-3. [Proposed System](#proposed-system)
-   - 3.1 [Goals and Objectives](#goals-and-objectives)
-4. [Project Planning](#project-planning)
-   - 4.1 [Project Setup](#project-setup)
-   - 4.2 [Stakeholders and Their Roles](#stakeholders-and-their-roles)
-   - 4.3 [Resource Descriptions](#resource-descriptions)
-   - 4.4 [Assumptions](#assumptions)
-5. [System Analysis and Design](#system-analysis-and-design)
-   - 5.1 [Overall Description](#overall-description)
-   - 5.2 [Users and Roles](#users-and-roles)
-   - 5.3 [User Stories](#user-stories)
-6. [Sprints](#sprints)
+1. Introduction
+   - 1.1 Problem Statement
+2. Background Research
+3. Proposed System
+   - 3.1 Goals and Objectives
+4. Project Planning
+   - 4.1 Project Setup
+   - 4.2 cStakeholders and Their Roles
+   - 4.3 Resource Descriptions
+   - 4.4 Assumptions
+5. System Analysis and Design
+   - 5.1 Overall Description
+   - 5.2 Users and Role
+   - 5.3 User Stories
+6. Sprints
+7. Diagrams
+   - 7.1 Activity Diagram
+   - 7.2 Sequence Diagram
+   - 7.3 Use Case Diagram
 
 ## Introduction
 
@@ -122,7 +126,14 @@ MediSync comprises a user-facing web application and a backend administration po
 - **Sprint 4:**
   - Radiographer Report Upload
 
+## Diagrams
+### Activity Diagram
+### Sequence Diagram
+### Use Case Diagram
+
 ## Group Members
 
 - Arnav Johri
 - Shourya Chauhan
+
+
