@@ -131,6 +131,8 @@ MediSync comprises a user-facing web application and a backend administration po
 ![image](https://github.com/aj-02/HMS-Software-Engineering/assets/82252072/33b229da-9f64-4c76-8b97-080ba0f5ac1d)
 
 ### Sequence Diagram
+![image](https://github.com/aj-02/HMS-Software-Engineering/assets/82252072/00edcb8d-4d7c-4664-b041-a2abf89cf346)
+
 ### Use Case Diagram
 
 ## Group Members
